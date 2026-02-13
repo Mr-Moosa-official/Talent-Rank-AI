@@ -1,3 +1,34 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "avatar1",
+      "description": "User avatar for testimonial",
+      "imageUrl": "https://images.unsplash.com/photo-1711645169736-53327e726205?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx3b21hbiUyMHNtaWxpbmd8ZW58MHx8fHwxNzcwOTUxMzU0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman smiling"
+    },
+    {
+      "id": "avatar2",
+      "description": "User avatar for testimonial",
+      "imageUrl": "https://images.unsplash.com/photo-1594672830234-ba4cfe1202dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bWFuJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzcxMDIyNzEwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "avatar3",
+      "description": "User avatar for testimonial",
+      "imageUrl": "https://images.unsplash.com/photo-1639179045538-62bba1166e77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjBnbGFzc2VzfGVufDB8fHx8MTc3MDk3Mjg2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person glasses"
+    },
+    {
+      "id": "avatar4",
+      "description": "User avatar for testimonial",
+      "imageUrl": "https://images.unsplash.com/photo-1598870784088-35e7058da12c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZWNydWl0ZXIlMjBwcm9mZXNzaW9uYWx8ZW58MHx8fHwxNzcxMDIyNzEwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "recruiter professional"
+    },
+    {
+      "id": "avatar5",
+      "description": "User avatar for testimonial",
+      "imageUrl": "https://images.unsplash.com/photo-1699892131416-ffe93f41e977?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8dGVjaCUyMGxlYWR8ZW58MHx8fHwxNzcxMDIyNzEwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tech lead"
+    }
+  ]
 }
