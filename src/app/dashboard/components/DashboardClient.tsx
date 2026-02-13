@@ -17,12 +17,6 @@ import { v4 as uuidv4 } from 'uuid';
 import { AlertTriangle, ArrowRight, Bot, BrainCircuit, FilePlus, Loader2, Sparkles, Trash2, UserPlus, Users } from 'lucide-react';
 import Link from 'next/link';
 
-// Mock `uuid` because it's not available in the environment
-// In a real app, you would install it: `npm install uuid @types/uuid`
-jest.mock('uuid', () => ({
-  v4: () => Math.random().toString(36).substring(2, 15),
-}));
-
 export default function DashboardClient() {
   const [jobDescription, setJobDescription] = useState('');
   const [candidates, setCandidates] = useState<Candidate[]>([]);
