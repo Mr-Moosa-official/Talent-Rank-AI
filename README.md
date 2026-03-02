@@ -2,7 +2,7 @@
 
 Talent Rank AI is an AI-powered recruitment intelligence platform that automates resume screening, ranks candidates based on job requirements, and provides deep scoring insights to support smarter hiring decisions.
 
-Designed for recruiters and hiring teams, Talent Rank AI reduces manual evaluation time while improving fairness and precision.
+Designed for recruiters and hiring teams,  Talent Rank AI reduces manual evaluation time while improving fairness and precision.
 
 🚀 Core Features
 📄 Job  Description Upload
