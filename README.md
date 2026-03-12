@@ -7,7 +7,7 @@ Designed for recruiters and hiring teams,  Talent Rank AI reduces manual evaluat
 🚀 Core Features
 📄 Job  Description Upload
 
-Upload  job descriptions in:
+Upload  job descriptions  in:
 
 PDF
 
